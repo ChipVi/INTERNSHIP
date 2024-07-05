@@ -1,0 +1,35 @@
+{
+	"progress": [
+		"Đã dừng",
+		"Xem xét",
+		"Chậm chạp",
+		"Đang tiến hành",
+		"Tích cực",
+		"Hoàn thành"
+	],
+	"genre": [
+		"Tiểu thuyết chương hồi",
+		"Truyện ngắn",
+		"Thơ"
+	],
+	"type": [
+		"Tiên hiệp",
+		"Kiếm hiệp",
+		"Ngôn tình",
+		"Huyền huyễn",
+		"Đô thị",
+		"Quân sự",
+		"Lịch sử",
+		"Trinh thám",
+		"Cổ đại",
+		"Xuyên không",
+		"Lãng mãn",
+		"Khoa học"
+	],
+	"trans": [
+		"Nguyên ngữ",
+		"Dịch ngữ",
+		"Chuyển ngữ",
+		"Khác"
+	]
+}

@@ -1,0 +1,346 @@
+{
+	"cards": [
+		{
+			"id": "1",
+			"title": "Thiên Hạ Hữu Tình 01",
+			"cover": "/assets/img/book_cover/bc_01.jpg",
+			"type": [
+				2,
+				4,
+				8,
+				1,
+				6,
+				3
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc. Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc. Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân", "biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 5,
+			"word_count": "12345678",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1 long name",
+					"comment": "Truyện rất hay, xứng đáng là siêu phẩm trong siêu phẩm. Thật là may mắn khi tác giả ra chương rất nhanh. Chúc mọi người đọc truyện vui vẻ!!!!",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay, xứng đáng là siêu phẩm trong siêu phẩm. Thật là may mắn khi tác giả ra chương rất nhanh. Cảm ơn tác giả lắm lắm!!!!",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"title": "Hỏi Thế Gian Tình Là Điều Chi Mà Đôi Lứa Thề Nguyền Có Nhau",
+			"cover": "/assets/img/book_cover/bc_02.jpg",
+			"type": [
+				1,
+				3
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 3,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				
+			]
+		},
+		{
+			"id": "3",
+			"title": "Thiên Hạ Hữu Tình 03",
+			"cover": "/assets/img/book_cover/bc_03.jpg",
+			"type": [
+				0,
+				3,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 4,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"title": "Thiên Hạ Hữu Tình 04",
+			"cover": "/assets/img/book_cover/bc_04.jpg",
+			"type": [
+				1,
+				3,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 2,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "5",
+			"title": "Thiên Hạ Hữu Tình 05",
+			"cover": "/assets/img/book_cover/bc_05.jpg",
+			"type": [
+				1,
+				3,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 1,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "6",
+			"title": "Thiên Hạ Hữu Tình 01",
+			"cover": "/assets/img/book_cover/bc_06.jpg",
+			"type": [
+				2,
+				4,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 5,
+			"word_count": "12345678",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1 long name",
+					"comment": "Truyện rất hay, xứng đáng là siêu phẩm trong siêu phẩm. Thật là may mắn khi tác giả ra chương rất nhanh.",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay, xứng đáng là siêu phẩm trong siêu phẩm. Thật là may mắn khi tác giả ra chương rất nhanh.",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "7",
+			"title": "Hỏi Thế Gian Tình Là Điều Chi Mà Đôi Lứa Thề Nguyền Có Nhau",
+			"cover": "/assets/img/book_cover/bc_07.jpg",
+			"type": [
+				1,
+				3
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 3,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "8",
+			"title": "Thiên Hạ Hữu Tình 03",
+			"cover": "/assets/img/book_cover/bc_08.jpg",
+			"type": [
+				0,
+				3,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 4,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "9",
+			"title": "Thiên Hạ Hữu Tình 04",
+			"cover": "/assets/img/book_cover/bc_09.jpg",
+			"type": [
+				1,
+				3,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 2,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		},
+		{
+			"id": "0",
+			"title": "Thiên Hạ Hữu Tình 05",
+			"cover": "/assets/img/book_cover/bc_10.jpg",
+			"type": [
+				1,
+				3,
+				8
+			],
+			"desc_short": "Vũ Văn cùng các dị nhân của tương lai xuyên không đến thế giới tu chân, dùng khoa học tiến lên. Chung tình, tâm lý, mưu mô, hạnh phúc.",
+			"featured_tag": ["biến hình", "dị nhân", "thần thú", "mưu trí", "đội nhóm", "quân sự", "khoa học", "tu chân"],
+			"author": "Nguyễn Văn A",
+			"chapter": "530",
+			"chapter_all": "1000",
+			"progress": 1,
+			"word_count": "1645000",
+			"rate": "4.3",
+			"rate_count": "1224",
+			"read": "3212",
+			"emotioned": "2341",
+			"review": "34",
+			"comment_count": "234",
+			"comments": [
+				{
+					"name": "User X1",
+					"comment": "Truyện rất hay",
+					"rate": "4"
+				},
+				{
+					"name": "User X2",
+					"comment": "Truyện rất hay",
+					"rate": "5"
+				}
+			]
+		}
+	]
+}
