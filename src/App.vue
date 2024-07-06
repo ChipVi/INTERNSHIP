@@ -1,8 +1,10 @@
 <template lang='pug'>
 .app
     Header
-    slide
+    SlideShow(:info='info') 
     Toolbar
+    .pc
+      news
 
     .tieude
       .title TRUYỆN MỚI CẬP NHẬT
@@ -36,6 +38,7 @@ import SwitchButton from './components/SwitchButton';
 import ListRow from './components/ListRow';
 import Footer from './components/Footer';
 import card from './components/card';
+import news from './components/PC/tintuc.vue';
 export default {
   name: 'App',
   components: {
@@ -47,6 +50,7 @@ export default {
     Footer,
     card,
     slide,
+    news
   },
   data() {
     return {
@@ -93,7 +97,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="stylus">
 
 #app {
   background-color: #add8dc;
@@ -110,5 +114,11 @@ export default {
   font-weight: bold;
 
 }
+.pc
+  display: none;
+@media (min-width: 1024px) 
+  .pc 
+    display: block;
+  
 
 </style>
