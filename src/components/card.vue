@@ -1,7 +1,7 @@
 <template >
-    <div class="cards">
+    <div class="cads">
         <div v-for="(each, i) in info" :key="i">
-            <div class="card">
+            <div class="cardd">
                 <div class="imgcontainer">
                     <img :src='each.url' alt="">
                 </div>
@@ -19,7 +19,7 @@ export default {
 </script>
 
 <style scoped>
-.cards {
+.cads {
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
@@ -30,7 +30,7 @@ export default {
 ::-webkit-scrollbar {
     display: none;
 }
-.card{
+.cardd{
     display:flex;
     flex-direction: column;
     padding: 5px;

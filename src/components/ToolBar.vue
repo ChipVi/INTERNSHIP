@@ -16,19 +16,6 @@
             .tool
                 i.fa.fa-book
                 .title Review 
-.pc     
-    ul.nav.nav-tabs.custom-navbar
-        li.nav-item
-            a.nav-link.active(href='#') Trang chủ
-        li.nav-item
-            a.nav-link(href='#') Bộ lọc
-        li.nav-item
-            a.nav-link(href='#') Reviews
-        li.nav-item
-            a.nav-link(href='#') Cửa hàng
-        li.nav-item
-            a.nav-link(href='#') Bảng xếp hạng
-
 </template>
 
 <script>
@@ -43,21 +30,10 @@ export default {
             text-decoration none /* Optional: Remove underline */
     a:hover
             color: #2798a1
-    @media (min-width: 1024px) 
-        .bar
-            display: none
-        .pc 
-            display: flex
-            justify-content center
-            padding-top 20px
-            font-size: 20px
-
-      
-    @media (max-width: 412px)
-        .pc 
-            display: none
+   
         .bar
             display flex
+            flex-direction row
             padding-top 20px 
             justify-content center
         

@@ -1,70 +1,63 @@
-<template>
-    <div class="header">
-        <h3>
-            TÀNG THƯ VIỆN
-        </h3>
-        <div class="menu">
-            <div v-if="isLargeScreen" class="large-screen-content">
-                    <input type="text" placeholder="Tìm tên truyện hoặc tác giả">
-            </div>
-            <ul>
-                <li><a href="#"><i class="fas fa-search"></i></a></li>
-                <li><a href="#"><i class="fas fa-user-alt"></i></a></li>
-                <li><a href="#"><i class="fas fa-users"></i></a></li>
-            </ul>
-        </div>
-     
-    </div>
+<template lang="pug">
+.header
+  h3.d-sm-none TÀNG THƯ VIÊN 
+  .imgwr.d-none.d-sm-block
+    img(src="../assets/logo-web.png")
+  .menu
+    .d-none.d-sm-block
+      input(type="text" placeholder="Tìm tên truyện hoặc tác giả")
+      a(href="#").m-1
+          i(class="fas fa-search")
+  ul
+    li
+        a(href="#").d-sm-none
+          i(class="fas fa-search")
+    li
+        a(href="#")
+          i(class="fas fa-user-alt")
+    li
+        a(href="#")
+          i(class="fas fa-users")
+
 </template>
 <script>
-    export default {
+export default {
     name: 'header',
     data() {
-    return {
-      screenWidth: window.innerWidth
-    };
-  },
-    computed: {
-        isLargeScreen() {
-            return this.screenWidth >= 1024; // Adjust the breakpoint as needed
-        }
     },
-    created() {
-    window.addEventListener('resize', this.updateScreenWidth);
-    },
-    beforeUnmount() {
-        window.removeEventListener('resize', this.updateScreenWidth);
-    },
-    methods: {
-        updateScreenWidth() {
-        this.screenWidth = window.innerWidth;
-    }
-  }
+
 }
     
 </script>
-<style scoped>
+<style scoped lang="stylus">
+
+    .imgwr
+        max-height 95px
+        max-width 300px
+        margin-left 10px;
+    img
+        object-fit contain
+        width 100%
+        height 100%
     .menu{
         display: flex;
         justify-content: center;
         align-items: center;
     }
-    @media (min-width: 1024px) {
-    .large-screen-content {
-    }
-    }
+
     .header{
         display: flex;
         justify-content:space-between;
         align-items: center;
-        background-color: #2798a1;
+        background-color: pink;
         padding: 0 10px;
         color: white;
     }
     ul{
         list-style-type: none;
         display:flex;
-        padding: 10;
+        flex-direction row
+        padding: 0;
     }
     a {
             color: inherit; /* This will inherit the color from its parent */
@@ -77,7 +70,7 @@
         font-size: 25px;
     }
     li{
-        margin: 10px;
+        margin: 0px 10px ;
     }
     
 

@@ -1,0 +1,38 @@
+.all
+        .tt Tin tức
+        list 
+            .l.be Đăng ký convert
+            .l.tr Bảng lương convert
+            .l.be Kiếm tiền với tàng thư viện
+            .l.tr Các đơn vị tiền tệ
+            .l.be Các bước trở thành converter
+            .l.be Các bước trở thành converter
+            .l.be Các bước trở thành converter
+            .l.be Các bước trở thành converter 
+
+
+
+ .all
+        display flex
+        flex-direction column
+        width 100%
+        height 100%
+    .list
+        height 95%
+    .tt
+        background-color white 
+        padding 10px 
+        text-align center
+        font-size 25px 
+        font-weight bold
+    
+    .l
+        width 100%
+        padding 10px 10px
+        font-size 18px
+        height 12.5%
+    .be 
+        background-color: pink
+
+    .tr
+        background-color white

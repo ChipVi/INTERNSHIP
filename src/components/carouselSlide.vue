@@ -12,7 +12,7 @@
   };
   </script>
   
-  <style scoped>
+  <style scoped lang="stylus">
   .left-enter-active,
   .left-leave-active,
   .right-enter-active,
@@ -79,9 +79,13 @@
   }
   .imgcontainer {
     width: 100%;
-    height: 250px;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
   }
+  img
+    width 100%
+    height 100%
+    object-fit contain
   </style>

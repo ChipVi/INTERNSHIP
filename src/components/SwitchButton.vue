@@ -37,34 +37,33 @@ export default {
 </script>
 
 <style lang="stylus">
-    @media (min-width: 1024px) 
-        .typebar{
-        display: flex;
-        flex-direction:row;
-        width: 35rem;
-        height: 2rem;
-        background-color: white;
-        border: #2798a1 solid;
-        border-radius: 3px;
-        font-size: 1.2rem;
-        text-align center;
-        }
-        .otype{
-        text-align: center;
-        height: 100%;
-        width: 60%;
-        background-color:white;
-        font-weight: bold;
-        }
-        .otype.active{
-        background-color:#2798a1;
-        color:white;
-        font-weight: bold;
-        }
-        .card
-            width: 8rem;
+    // @media (min-width: 1024px) 
+    //     .typebar{
+    //     display: flex;
+    //     flex-direction:row;
+    //     width: 35rem;
+    //     height: 2rem;
+    //     background-color: white;
+    //     border: #2798a1 solid;
+    //     border-radius: 3px;
+    //     font-size: 1.2rem;
+    //     text-align center;
+    //     }
+    //     .otype{
+    //     text-align: center;
+    //     height: 100%;
+    //     width: 60%;
+    //     background-color:white;
+    //     font-weight: bold;
+    //     }
+    //     .otype.active{
+    //     background-color:#2798a1;
+    //     color:white;
+    //     font-weight: bold;
+    //     }
+    //     .card
+    //         width: 8rem;
 
-    @media (max-width: 412px) 
         .typebar{
         display: flex;
         flex-direction:row;

@@ -65,7 +65,7 @@
   
   <style lang="stylus" scoped>
   .wrap-caroucel {
-    height: 250px;
+    height: 12rem;
     overflow: hidden;
     position: relative;
     display: flex;
